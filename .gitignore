@@ -1,0 +1,18 @@
+# Python virtual environment (no need to upload to GitHub)
+.venv/
+venv/
+env/
+
+# Python temporary cache files
+**/__pycache__/
+*.pyc
+
+# Local data and images (keeps your GitHub repo light and fast)
+uploads/
+sandbox/*.npy
+*.jpg
+*.png
+*.csv
+
+# Local VS Code settings
+.vscode/
